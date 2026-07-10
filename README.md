@@ -5,5 +5,4 @@ Minecraft Mod that allows to swap Elytra and chestplate with single key
 
 Found a bug?
 
-Please create an Issue:
-https://github.com/TerviXx/Quantics-Elytra-Swap/issues
+Please create an Issue: https://github.com/TerviXx/Quantics-Elytra-Swap-/issues
